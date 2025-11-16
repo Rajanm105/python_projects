@@ -1,5 +1,6 @@
 notes.db
 __pycache__
 migrations
+.env
 
 
